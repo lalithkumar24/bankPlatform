@@ -12,7 +12,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 export const metadata: Metadata = {
   title: "FinVault",
   description: "FinVault is a modern banking platfoem for every one",
-  icons: "public/icons/logo.svg",
+  icons: "/icons/logo.svg",
 };
 
 export default function RootLayout({
